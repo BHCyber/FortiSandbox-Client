@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortiSandboxOnDemandSubmitEndpoint", "FortiSandboxOnDemandSubmitEndpoint\FortiSandboxOnDemandSubmitEndpoint.csproj", "{823E9538-FD98-448A-A1AF-E1C9E16527FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{823E9538-FD98-448A-A1AF-E1C9E16527FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823E9538-FD98-448A-A1AF-E1C9E16527FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823E9538-FD98-448A-A1AF-E1C9E16527FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823E9538-FD98-448A-A1AF-E1C9E16527FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F230581-63F9-4B13-8293-BBF38B694E17}
+	EndGlobalSection
+EndGlobal
