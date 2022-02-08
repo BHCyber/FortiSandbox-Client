@@ -1,4 +1,4 @@
-# FortiSandboxClient
+# FortiSandbox On-Demand Submission Client
 A C# software client consumes FortiSandbox APIs to triger an on-demand scan job for a specific file directly from the endpoint.
 This peice of software is useful with endpoint detection and response (EDR) solutions which support a call for customized actions, SOAR solutions, or any other way that helps to call for actions.
 
