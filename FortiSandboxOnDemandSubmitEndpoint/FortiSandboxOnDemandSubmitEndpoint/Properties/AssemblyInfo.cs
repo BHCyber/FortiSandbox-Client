@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("FortiSandboxOnDemandSubmitEndpoint")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("https://github.com/baselhmidan/FortiSandboxOnDemandSubmissionClient")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Basel Hmidan")]
 [assembly: AssemblyProduct("FortiSandboxOnDemandSubmitEndpoint")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright © 2022 BASEL HMIDAN")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
