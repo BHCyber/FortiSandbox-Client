@@ -11,7 +11,7 @@ FortiSandbox Requirements:
 --------------------
 
 Packges Requriements:
-  1. Newtonsoft.Json -> version="12.0.1"
+  1. Newtonsoft.Json -> version="13.0.0"
 
 --------------------
 
